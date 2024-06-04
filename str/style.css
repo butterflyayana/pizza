@@ -1,0 +1,129 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1400px;
+    margin: 0 auto;
+}
+.header{
+    background-image: url(./image\ 27.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+}
+ul{
+    display: flex;
+    gap: 80px;
+    list-style: none;
+    margin-left: 70px;
+}
+.header-wrapper{
+    display: flex;
+    align-items: center;
+}
+.logo{ 
+    margin-top: 1rem;
+}
+.kim{
+    font-family: 'Inter';
+    font-size: 96px;
+    font-weight: 500;
+    line-height: 116px;
+    margin-top: 8rem;
+    margin-left: 14rem;
+}
+.bang{
+    font-family: 'Inter';
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    margin-top: 22rem;
+    margin-left: 6rem;
+}
+.know{
+    width: 730px;
+    height: 411px;
+    margin-top: -15rem;
+    margin-left: 35rem;
+}
+/* .stray{
+    width: 247px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #ff1010;
+}
+.kids{
+    font-family: 'Inter';
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 40px;
+    padding-top: -20px;
+    color: #fff;
+} */
+.stray{
+    width: 1170px;
+    height: 10px;
+    border-radius: 10px;
+    border: 5px solid #FBF10D;
+    margin-top: 10rem;
+    margin-left: 5rem;
+}
+.han{
+    width: 26px;
+    height: 26px;
+    margin-left: 5rem;
+    margin-top: 2rem;
+}
+.chan{
+    font-family: 'Inter';
+    font-size: 24px;
+    font-weight: 200;
+    line-height: 29px;
+    margin-left: 8rem;
+    margin-top: -2rem;
+}
+.han-2{
+    width: 33px;
+    height: 33px;
+    margin-left: 5rem;
+    margin-top: 2rem;
+}
+.chan-2{
+    font-family: 'Inter';
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 39px;  
+    margin-left: 8rem;
+    margin-top: -2.5rem;
+}
+.han-3{
+    width: 32px;
+    height: 24px;
+    margin-left: 5rem;
+    margin-top: 2rem;
+}
+.chan-3{
+    font-family: 'Inter';
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 39px;
+    margin-left: 8rem;
+    margin-top: -2.5rem;
+}
+.han-4{
+    width: 32px;
+    height: 23px;
+    margin-left: 5rem;
+    margin-top: 2rem;
+}
+.chan-4{
+    font-family: 'Inter';
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 39px;
+    margin-left: 8rem;
+    margin-top: -2.5rem;
+}
